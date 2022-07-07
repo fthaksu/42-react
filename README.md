@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+## Install Packages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### `npm install`
+
+
+##  npm install -g json-server
+
+json-server --watch db.json --port 3004
+http://localhost:3004/users/ GET
+http://localhost:3004/users/ POST
+http://localhost:3004/users/1  -> 1 id li user
+http://localhost:3004/users?username=admin  -> username = admin olan
+
 
 ## Available Scripts
 
