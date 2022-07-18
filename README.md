@@ -2,15 +2,15 @@
 
 
 ### `npm install`
-
-
-
-
+  
+  
 ## Install and Run JSON Server (Mock API)
 
 ###  `npm install -g json-server`
 
 json-server --watch db.json --port 3004  
+
+### Some Examples for Json Server
 http://localhost:3004/users/ GET  
 http://localhost:3004/users/ POST  
 http://localhost:3004/users/1  -> 1 id li user  
