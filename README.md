@@ -8,7 +8,7 @@
 
 ###  `npm install -g json-server`
 
-json-server --watch db.json --port 3004  -> Run json server over 3004 port
+`json-server --watch db.json --port 3004`  -> Run json server over 3004 port
 
 ### Some Examples for Json Server
 http://localhost:3004/users/ -> GET  
